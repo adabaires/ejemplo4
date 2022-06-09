@@ -1,0 +1,14 @@
+[
+    [{"nombre":"Tiradito Nikkei","precio":1049,"descripcion":"Salmón y mango en salsa chutney nikkei con cítricos de estación ligeramente picante.","img":"assets/images/tiradito-nikkei.png"},
+    {"nombre":"Lomo saltado","precio":1549,"descripcion":"Al wok, con tomates, cebolla morada, cebolla de verdeo, acompañado con arroz peruano y papas doradas.","img":"assets/images/lomo-saltado.png"},
+    {"nombre":"Burguer Morena","precio":899,"descripcion":"De salmón con chips de batata + bebida incluída","img":"assets/images/burger-morena.png"},
+    {"nombre":"Ensalada de langostinos","precio":899,"descripcion":"Rúcula, Palta, Langostino Rebozado, Queso Sardo, Maíz ,Tomate Cherry, Reducción de Aceto 5 Gramos.","img":"assets/images/ensalada-de-langostinos.png"}],
+    
+    [{"nombre":"helado","precio":500,"descripcion":"2 bochas sabores clasicos a eleccion","img":"assets/images/tab-item-05.png"},
+    {"nombre":"helado","precio":500,"descripcion":"2 bochas sabores clasicos a eleccion","img":"assets/images/tab-item-05.png"},
+    {"nombre":"helado","precio":500,"descripcion":"2 bochas sabores clasicos a eleccion","img":"assets/images/tab-item-05.png"}],
+    
+    [{"nombre":"agua","precio":250,"descripcion":"Con gas o sin gas","img":"assets/images/tab-item-06.png"},
+    {"nombre":"agua","precio":250,"descripcion":"Con gas o sin gas","img":"assets/images/tab-item-06.png"},
+    {"nombre":"agua","precio":250,"descripcion":"Con gas o sin gas","img":"assets/images/tab-item-06.png"}]
+]
